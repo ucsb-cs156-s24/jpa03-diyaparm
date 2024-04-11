@@ -1,6 +1,6 @@
 # jpa03-diyaparm
 
-Running at: < https://jpa03-diyaparm.dokku-14.cs.ucsb.edu>
+Running at: <https://jpa03-diyaparm.dokku-14.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
